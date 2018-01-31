@@ -1,3 +1,5 @@
+JavaScript中数学运算的安全范围及开源大整数高精度计算库
+
 Crunch [![Build Status](https://img.shields.io/travis/vukicevic/crunch.svg?style=flat-square)](https://semaphoreci.com/vukicevic/crunch) [![NPM version](https://img.shields.io/npm/v/number-crunch.svg?style=flat-square)](https://www.npmjs.com/package/number-crunch) ![Bower version](https://img.shields.io/bower/v/crunch.svg?style=flat-square) ![License](https://img.shields.io/npm/l/number-crunch.svg?style=flat-square) ![Codacy grade](https://img.shields.io/codacy/grade/65c85b83e68d4caba427222b4812a838.svg?style=flat-square) ![Codacy coverage](https://img.shields.io/codacy/coverage/65c85b83e68d4caba427222b4812a838.svg?style=flat-square)
 ======
 Crunch is an [arbitrary-precision integer arithmetic](http://en.wikipedia.org/wiki/Arbitrary-precision_arithmetic) library for JavaScript.
